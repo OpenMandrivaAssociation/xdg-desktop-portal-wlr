@@ -1,6 +1,6 @@
 Name:           xdg-desktop-portal-wlr
 Version:        0.6.0
-Release:        1
+Release:        2
 Summary:        xdg-desktop-portal backend for wlroots
 License:        MIT
 URL:            https://github.com/emersion/xdg-desktop-portal-wlr
