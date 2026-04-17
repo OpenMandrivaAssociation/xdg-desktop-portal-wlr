@@ -1,5 +1,5 @@
 Name:           xdg-desktop-portal-wlr
-Version:        0.8.1
+Version:        0.8.2
 Release:        1
 Summary:        xdg-desktop-portal backend for wlroots
 License:        MIT
